@@ -1,0 +1,16 @@
+{
+  "name": "blog-api-mongoose",
+  "version": "1.0.0",
+  "description": "Challenge: Add Mongoose to blogging app",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2",
+    "uuid": "^3.1.0"
+  }
+}
